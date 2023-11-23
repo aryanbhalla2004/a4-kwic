@@ -1,0 +1,7 @@
+WORD                 PARA CONTEXT
+====                 ==== =======
+cookie.                 2 going to make a cookie.
+going                   2 We are going to make a
+make                    2 We are going to make a
+paragraph               1 Hey this is a paragraph
+test                    1 is a paragraph test

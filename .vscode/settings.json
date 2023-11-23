@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.pde": "java",
+    "*.graphql": "graphql",
+    "a4_multimap.h": "c",
+    "a4_tests.h": "c",
+    "a4_kwic.h": "c",
+    "stdlib.h": "c",
+    "assert.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
